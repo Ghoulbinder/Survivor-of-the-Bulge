@@ -161,7 +161,7 @@ This project was developed as coursework to demonstrate:
 
 ## 📸 Screenshots
 
-[Add screenshots of your game here showing:]
+[Working in progress:]
 - Different zones
 - Combat encounters
 - Falling leaves effect
